@@ -8,3 +8,6 @@ To run this script, install the following packages:
 - numpy
 - dearpygui
 - dearpygui_ext
+
+Comando:
+```pip install numpy dearpygui dearpygui_ext ```
