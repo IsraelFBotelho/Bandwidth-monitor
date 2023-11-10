@@ -38,7 +38,7 @@ def detect_attack(mean_l:list, new_download):
     if new_download < lim_i:
         return False
 
-    mean_l.append(new_download)
+    # mean_l.append(new_download)
     return False
 
 
